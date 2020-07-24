@@ -1,4 +1,4 @@
-# Specifically for the iPython Notebook environment for clearing output
+# Specifically for the iPython Notebook environment
 
 from IPython.display import clear_output
 import random
